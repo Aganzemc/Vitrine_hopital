@@ -1,0 +1,24 @@
+$primary: #339989;
+$secondary: #354f8e;
+$light: #eff5f9;
+$dark: #131515;
+
+$font-family-sans-serif: "Roboto", sans-serif;
+
+$headings-font-family: "Roboto Condensed", sans-serif;
+
+$body-color: #848e9f;
+
+$headings-color: $dark;
+
+$headings-font-weight: 700;
+
+$display-font-weight: 700;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: 8px;
+
+$link-decoration: none;
+
+@import "bootstrap/scss/bootstrap";
